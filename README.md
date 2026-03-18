@@ -41,10 +41,3 @@ Email: maazamir232@gmail.com
 <img width="949" height="254" alt="image" src="https://github.com/user-attachments/assets/49422367-a8ec-4993-87b3-edff9c3f4696" />
 <img width="949" height="412" alt="image" src="https://github.com/user-attachments/assets/f9c86c67-88e6-4bbe-a293-3223701b30aa" />
 
-## Check Now
-
-<p align="center">
-  <a href="http://127.0.0.1:5500/index.html">
-    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
